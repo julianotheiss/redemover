@@ -1,4 +1,14 @@
 ###################
+REDE MOVER HOW TO INSTALL
+###################
+1. Download/clone the repo on https://github.com/SergioHs/redemover
+1. Install the DB from ....
+1. Acess local enviroment on ....
+
+
+
+
+###################
 What is CodeIgniter
 ###################
 
